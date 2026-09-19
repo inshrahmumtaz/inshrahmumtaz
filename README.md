@@ -1,42 +1,19 @@
+Hi, I'm Inshrah 👋
+Computer Science student at Air University interested in software development, web technologies, artificial intelligence, data, and UI/UX design.
 
-👋 Hi, I’m [Inshrah Mumtaz]
+I enjoy learning by building practical projects and exploring how technology can solve real-world problems.
 
-🎨 UI/UX Designer & Creative Thinker
-📱 Passionate about mobile app mockups, web design, and user-centered experiences
-💡 Exploring the balance of design + functionality through Figma and digital case studies
+Currently working with:
+C++ • Java • JavaScript • SQL • HTML • CSS • React • Python • Flutter • Figma
 
-🚀 About Me
+Areas of interest:
+Software Development • Full-Stack Web Development • Artificial Intelligence • Data Analytics • Databases • UI/UX
 
-🔭 Currently working on mockups for fintech, e-commerce, and lifestyle apps
+Featured Projects
 
-🌱 Learning front-end integration (HTML, CSS, React basics) to bring designs to life
+Task Manager — Full-Stack Web Application
+Netflix Content Analysis — SQL + Power BI
+School of AI — Data Science Projects
+UI/UX Design Portfolio
 
-🎯 Goal: Build intuitive, minimal, and engaging user experiences
-
-⚡ Fun fact: I love experimenting with color psychology and micro-interactions in UI
-
-📂 Featured Projects
-
-Here are a few of my design projects (more in my repos):
-
-🟦 Felis Mobile App Mockup – A sleek blue-themed UI for lifestyle management
-
-💳 Fintech Trading App Mockup – Inspired by platforms like Binomo, focused on usability & trust
-
-🏡 Airbnb Redesign – A fresh take on modern travel and accommodation booking
-
-👟 Nike Mobile App Concept – A stylish e-commerce mockup blending minimalism with brand identity
-
-(Check pinned repos for full case studies & designs)
-
-🌐 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/inshrahmumtaz/
-
-🎨 [Behance / Dribbble] (https://www.behance.net/inshrahmumtaz)
-(https://dribbble.com/inshrah-mumtaz)
-
-📧 Email: inshrahmumtaz456@gmail.com
-
-✨ Always exploring ways to merge creativity with functionality.
-
+I'm continuously improving my technical skills through coursework, projects, collaboration, and hands-on learning.
